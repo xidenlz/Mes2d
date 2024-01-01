@@ -1,4 +1,4 @@
-### <div align="center">I'm Musaed, a full-time  freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
+### <div align="center">Hey! I'm Musaed, a full-time  freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
 - 🔎 Professional in digital forensics and CHFI certified  
@@ -100,4 +100,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
