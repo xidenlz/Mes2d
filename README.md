@@ -6,7 +6,7 @@
 
 -  💻 Interested in digital forensics, game hacking, windows kernels  
   
-
+-  🤞 I'm proficient in many programming languages, and I am also fluent in English and Arabic
 <br/>  
 
 
