@@ -1,12 +1,12 @@
 ### <div align="center">Hey! I'm Musaed, a full-time  freelance developer 👨‍💻 working remotely since 2015 🚀</div>  
   
 
-- 🔎 Professional in digital forensics and CHFI certified  
+- 🔎 Professional digital forensics and CHFI certified  
   
 
--  💻 Interested in digital forensics, game hacking, windows kernels  
+-  💻 Interested in digital forensics, game hacking and windows kernels  
   
--  🤞 I'm proficient in many programming languages, and I am also fluent in English and Arabic
+-  🤞 I'm proficient in many programming languages and I am also fluent in English and Arabic
 <br/>  
 
 
