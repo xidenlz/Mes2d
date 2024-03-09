@@ -1,1 +1,1 @@
-I'm a curious security enthusiast with certifications in CHFI and CEH. I use my skills in C, C++, C#, and Python to explore the inner workings of systems, focusing on hacking and reverse engineering, particularly within the Windows environment.  Always learning and open to collaboration!
+I'm a curious security enthusiast with certifications in CHFI and CEH.
